@@ -1,0 +1,22 @@
+.feynman__link {
+  position: absolute;
+  text-decoration: none;
+  color: #2f80ed;
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity .2s linear;
+  top: 50%;
+  right: 48px;
+  font-size: 36px;
+  line-height: 51px;
+  font-weight: normal;
+}
+
+.feynman__link::after {
+  content: ' →';
+}
+
+
+.feynman__link:hover {
+  opacity: .5;
+}

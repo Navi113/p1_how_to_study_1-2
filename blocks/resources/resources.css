@@ -1,0 +1,7 @@
+.resources {
+  width: 80%;
+  margin: 0 auto;
+  padding: 100px 0 217px;
+  display: flex;
+  flex-direction: column;
+}
