@@ -8,3 +8,4 @@
 
 
 [Страница проекта 🟦](https://navi113.github.io/p1_how_to_study_1-2/) 
+# p1_How_to_study_1-2_adaptive
